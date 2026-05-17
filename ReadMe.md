@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousuf Ahmed</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousuf-4594&label=Profile%20views&color=0e75b6&style=flat" alt="cysiddiqui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cysiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="cysiddiqui" /> </p>
 
 - 📫 How to reach me **cysiddiqui@gmail.com**
 
@@ -72,5 +72,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf-4594&" alt="yousuf-4594" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cysiddiqui&" alt="cysiddiqui" /></p>
 
